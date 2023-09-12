@@ -30,4 +30,4 @@ Created reusable components:
 - MyTextField
 
 # dependencies:
-- google_fonts for the font used in the projects
+- google_fonts for the font used in the project
