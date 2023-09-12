@@ -1,16 +1,33 @@
-# music_login
+# Music App Login and register UI
 
-A new Flutter project.
+## Run
+```flutter
+git clone https://github.com/Fadilix/FlutterMusicLoginUI.git
+flutter clean
+flutter packages get
+flutter run
+```
 
-## Getting Started
+## Screenshots
+<img width="300" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/8125971b-480f-4225-a960-5e0a08c0b15a">
 
-This project is a starting point for a Flutter application.
+<img width="300" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/1405fcc5-6014-46c1-97cf-303d0f39da4a">
 
-A few resources to get you started if this is your first Flutter project:
+<img width="300" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/a98a559f-ac8f-426a-b3fe-ee66adf7a716">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features:
+- Input fields for email/username and password.
+- Toggle password visibility with the eye icon.
+- Remember me checkbox.
+- "Forgot password?" link.
+- "Sign in" button with custom color.
+- Option to sign in with Facebook, Google, or Apple.
+- Link to the registration page for users without an account.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Reusable components
+Created reusable components:
+- MyButton
+- MyTextField
+
+# dependencies:
+- google_fonts for the font used in the projects
