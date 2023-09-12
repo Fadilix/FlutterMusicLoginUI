@@ -9,11 +9,11 @@ flutter run
 ```
 
 ## Screenshots
-<img width="300" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/8125971b-480f-4225-a960-5e0a08c0b15a">
+<img width="200" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/8125971b-480f-4225-a960-5e0a08c0b15a">
 
-<img width="300" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/1405fcc5-6014-46c1-97cf-303d0f39da4a">
+<img width="200" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/1405fcc5-6014-46c1-97cf-303d0f39da4a">
 
-<img width="300" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/a98a559f-ac8f-426a-b3fe-ee66adf7a716">
+<img width="200" src="https://github.com/Fadilix/FlutterMusicLoginUI/assets/121851593/a98a559f-ac8f-426a-b3fe-ee66adf7a716">
 
 ## Features:
 - Input fields for email/username and password.
